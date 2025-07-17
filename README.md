@@ -38,6 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hasankarabulut4&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true" height="135" style="border-radius:8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasankarabulut4&layout=compact&langs_count=6&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
   <img src="https://streak-stats.demolab.com?user=Hasankarabulut4&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasankarabulut4&theme=chartreuse-dark", height="135" style="border-radius:8px">
 </div>
 
 ---
