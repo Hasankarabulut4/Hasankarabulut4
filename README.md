@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasankarabulut4&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true" height="135" style="border-radius:8px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasankarabulut4&layout=compact&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=Hasankarabulut4&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=hasankarabulut4&show_icons=true&locale=en&layout=compact)&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
   <img src="https://streak-stats.demolab.com?user=Hasankarabulut4&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
 </div>
 
