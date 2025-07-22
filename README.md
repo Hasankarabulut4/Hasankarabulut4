@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-- 💡 1+ years of backend experience, mainly with **Java** & **Spring Boot**
+- 💡 2+ years of backend experience, mainly with **Java** & **Spring Boot**
 - 🌱 Always learning: currently deepening Docker, Linux
 - 🤝 Eager to collaborate and share knowledge
 - 📚 Fan of refactoring, design patterns, and lifelong growth
